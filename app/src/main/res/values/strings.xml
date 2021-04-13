@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">API Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="groupID">groupID</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="introduce_un_id_valido">Introduce un ID valido</string>
+    <string name="para_mostrar_todos_los_resultados_introduce_0">Para mostrar todos los resultados, introduce 0</string>
+    <string name="access_group_name">Access Group Name:</string>
+    <string name="access_group_id">Access Group ID:</string>
+    <string name="total_uses">Total uses:</string>
+    <string name="event_id">Event ID:</string>
+    <string name="structure_decode">Structure Decode:</string>
+    <string name="name">Name:</string>
+    <string name="modified">Modified:</string>
+    <string name="id">ID:</string>
+    <string name="basic_product_id">Basic Product ID:</string>
+    <string name="sessions">Sessions:</string>
+</resources>
